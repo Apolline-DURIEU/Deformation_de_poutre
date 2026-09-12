@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1766506622 source:c:\users\apoll\documents\polytech_lyon\coding\tp3\main.cpp
+	<iostream>
+	<math.h>
+	<Poutre.h>
+	<PoutreFlexion.h>
+	<PoutreFlexionBL.h>
+	<PoutreFlexionCL.h>
+	<PoutreTraction.h>
+	<PoutreTractionNL.h>
+	<PoutreVibration.h>
+	<PoutreVibTorsion.h>
+
+1766262876 source:c:\users\apoll\documents\polytech_lyon\coding\tp3\src\poutre.cpp
+	<iostream>
+	"Poutre.h"
+
+1766178173 c:\users\apoll\documents\polytech_lyon\coding\tp3\include\poutre.h
+
+1766438940 source:c:\users\apoll\documents\polytech_lyon\coding\tp3\src\poutreflexion.cpp
+	<iostream>
+	<math.h>
+	"PoutreFlexion.h"
+
+1766341445 c:\users\apoll\documents\polytech_lyon\coding\tp3\include\poutreflexion.h
+	"Poutre.h"
+
+1766428291 source:c:\users\apoll\documents\polytech_lyon\coding\tp3\poutreflexionbl.cpp
+	<iostream>
+	<math.h>
+	"PoutreFlexionBL.h"
+
+1766427417 c:\users\apoll\documents\polytech_lyon\coding\tp3\include\poutreflexionbl.h
+	<iostream>
+	<PoutreFlexion.h>
+
+1766428291 source:c:\users\apoll\documents\polytech_lyon\coding\tp3\src\poutreflexioncl.cpp
+	<iostream>
+	<math.h>
+	"PoutreFlexionCL.h"
+
+1766426036 c:\users\apoll\documents\polytech_lyon\coding\tp3\include\poutreflexioncl.h
+	<iostream>
+	"PoutreFlexion.h"
+
+1766439359 source:c:\users\apoll\documents\polytech_lyon\coding\tp3\src\poutretraction.cpp
+	<iostream>
+	<math.h>
+	"PoutreTraction.h"
+
+1766341570 c:\users\apoll\documents\polytech_lyon\coding\tp3\include\poutretraction.h
+	<iostream>
+	"Poutre.h"
+
+1766335001 source:c:\users\apoll\documents\polytech_lyon\coding\tp3\src\poutretractionnl.cpp
+	<iostream>
+	<math.h>
+	"PoutreTractionNL.h"
+
+1766334906 c:\users\apoll\documents\polytech_lyon\coding\tp3\include\poutretractionnl.h
+	<PoutreTraction.h>
+
+1766506577 source:c:\users\apoll\documents\polytech_lyon\coding\tp3\src\poutrevibration.cpp
+	<iostream>
+	<math.h>
+	"PoutreVibration.h"
+
+1766439921 c:\users\apoll\documents\polytech_lyon\coding\tp3\include\poutrevibration.h
+	<iostream>
+	<PoutreFlexion.h>
+
+1766264703 source:c:\users\apoll\documents\polytech_lyon\coding\tp3\src\poutrevibtorsion.cpp
+	<iostream>
+	<math.h>
+	"PoutreVibTorsion.h"
+
+1766247469 c:\users\apoll\documents\polytech_lyon\coding\tp3\include\poutrevibtorsion.h
+	<iostream>
+	<Poutre.h>
+
